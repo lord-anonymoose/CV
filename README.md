@@ -1,6 +1,6 @@
 # Philipp Lazarev – System Analyst and iOS DEV Enthusiast
 
-System Analyst based in Moscow with 5+ years in IT, specializing in DWH and banking projects. Developing expertise in iOS (Swift). Open to relocation (EU, UAE, Georgia).
+System Analyst based in Moscow with 5+ years in IT, specializing in DWH and banking projects. 
 
 ## ✉️ **Contact Me**
 - **Email:** philipp.lazareff@gmail.com
@@ -9,4 +9,3 @@ System Analyst based in Moscow with 5+ years in IT, specializing in DWH and bank
 
 ## 📄 CV
 - **[English version](https://github.com/lord-anonymoose/CV/blob/main/CV%20(ENG).pdf)**
-- **[Russian version](https://github.com/lord-anonymoose/CV/blob/main/CV%20(RU).pdf)**
