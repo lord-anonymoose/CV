@@ -8,4 +8,4 @@ System Analyst based in Moscow with 5+ years in IT, specializing in DWH and bank
 - **LinkedIn:** [Philipp Lazarev](https://www.linkedin.com/in/philipp-lazarev-782b14167/)
 
 ## 📄 CV
-- **[English version](https://github.com/lord-anonymoose/CV/blob/main/CV%20(ENG).pdf)**
+- **[English version](https://github.com/lord-anonymoose/CV/blob/main/Philipp Lazarev CV ENG.pdf)**
